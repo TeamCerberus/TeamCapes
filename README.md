@@ -10,3 +10,5 @@ Some people might have a diffrent cape per username. If so it will be in the fol
 username-mcusername.png
 Example
 newmangamers-fzerox.png
+
+The team has a default cape called teamDefault.png Members by default have this cape unless they change it.
